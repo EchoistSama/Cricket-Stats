@@ -1,3 +1,5 @@
+Interactive Dashboard - https://app.powerbi.com/links/JQEeJP3xkW?ctid=405ddc34-d660-46e5-b52d-bfd0be156bb5&pbi_source=linkShare
+
 Data is obtained on players from ESPN's cricket statistics website. Data cleaning and transformation in done in Python to prepare the data for visualization in Power Bi.
 
 Players are filtered on criteria such as strike rate, boundary %,  innings batted, batting average, batting position, innings bowled, bowling strike rate, etc.
